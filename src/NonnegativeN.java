@@ -22,7 +22,7 @@ public class NonnegativeN {
         }
         Arrays.sort(randomNum);
 
-        System.out.println("Ans :  ");
+        System.out.println("Ans : ");
         for(int ans : randomNum){
             System.out.println(ans);
         }
