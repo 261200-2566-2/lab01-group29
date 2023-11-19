@@ -11,6 +11,7 @@ public class NonnegativeN {
             System.out.print("Pleas input positive integer !!!");
             return;
         }
+
         Random random = new Random();
         int[] randomNum =new int[n];
         randomNum[0] = n;
